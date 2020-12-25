@@ -9,7 +9,7 @@ Nesse primeira versão já apresento pequenas mudanças em relação ao que foi 
 
 <strong> Mudanças: </strong>
 
-Inclusão de um icon junto ao title; reorganização do código css em 3 partes: main.css(onde está contido a estilização do root e do body), conteudo.css(contém o estilo dos conteúdos em si) e o arquivo otimizacao.css(contém o media queries); mudança da foto de perfil.
+Inclusão de um icon junto ao title; reorganização do código css em 3 partes: main.css(onde está contido o rest das configuração padrão da página), conteudo.css(contém o estilo dos conteúdos em si) e o arquivo otimizacao.css(contém o media queries); mudança da foto de perfil.
 
 Caso alguem veja esse projeto sinta-se livre para sugerir mudanças em qualquer aspecto do mesmo, dicas para melhorar na tecnologia seram tidas como preciosas,
 desde já muito obrigado!
